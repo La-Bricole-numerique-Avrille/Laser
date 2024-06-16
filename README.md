@@ -18,4 +18,4 @@ xTool M1 est une machine laser à diode qui combine la découpe laser, la gravur
 
 Tutoriel
 * [Les fonctions Xtool Créative Space - Partie 1](https://www.youtube.com/watch?v=TTp9K6d-AJo)
-* [Les fonctions Xtool Créative Space - Partie 2] (https://youtu.be/vFicuJvag5g?si=CnCYhiK7pi2iRziM)
+* [Les fonctions Xtool Créative Space - Partie 2](https://youtu.be/vFicuJvag5g?si=CnCYhiK7pi2iRziM)
