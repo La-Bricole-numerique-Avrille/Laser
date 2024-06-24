@@ -5,6 +5,8 @@
 
 ## Découpe Laser
 
+* [Découpe de l’acrylique avec un laser : ce qui fonctionne, les dangers](https://www.framboise314.fr/decoupe-de-lacrylique-avec-un-laser-ce-qui-fonctionne-les-dangers/)
+
 ## Machines
 
 ### Découpeuse Laser xTool M1
